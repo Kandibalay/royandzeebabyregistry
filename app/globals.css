@@ -161,3 +161,11 @@ tr:last-child td{border-bottom:0}
 .logout{border:1px solid var(--ring);background:#fff;color:var(--muted);
   font-weight:700;font-size:14px;padding:10px 14px;border-radius:11px;cursor:pointer}
 .logout:hover{border-color:var(--accent);color:var(--accent-ink)}
+
+
+@media (max-width: 600px) {
+  .grid {
+    max-width: 95%;
+    margin: auto;
+  }
+}
