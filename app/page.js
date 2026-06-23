@@ -76,7 +76,7 @@ export default function Home() {
         ))}
       </section>
 
-      <footer className="foot">Made with ❤️ &middot; <a href="/admin">Roy & Zee Nwodika</a></footer>
+      <footer className="foot">Made with ❤️ &middot;<br /><a href="/admin">Roy & Zee Nwodika</a></footer>
 
       {active && (
         <div className="overlay" onClick={close}>
