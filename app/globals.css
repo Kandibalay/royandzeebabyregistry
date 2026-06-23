@@ -21,7 +21,7 @@ main{max-width:1140px;margin:0 auto;padding:0 20px 80px}
 
 /* hero */
 .hero{text-align:center;padding:48px 0 24px}
-.baby{width:250px;height:250px;border-radius:50%;
+.baby{width:320px;height:320px;border-radius:50%;
   box-shadow:0 12px 30px rgba(120,150,180,.30);
   background:var(--soft);
   border:5px solid #fff;
